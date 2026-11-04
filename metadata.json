@@ -1,0 +1,6 @@
+{
+  "name": "FreshNearby – Local Fresh Produce Marketplace",
+  "description": "Hyperlocal marketplace connecting nearby fruit and vegetable shops with customers for hourly price comparisons, live scanning, food waste reduction flash deals, and shopkeeper stock management.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
